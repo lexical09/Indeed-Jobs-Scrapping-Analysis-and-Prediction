@@ -12,7 +12,7 @@ In this notebook, I will analyze the job data I scraped from Indeed.com for data
 ### Results:
 The accuracy score and across validation score of each Random Forest models shown below:
 
-|Features|Accuracy|Cross Validation|
+|Features Used|Accuracy|Cross Validation|
 |------|------|------|
 |City|0.655|0.538 ± 0.108|
 |Summary|0.704|0.731 ± 0.065|
