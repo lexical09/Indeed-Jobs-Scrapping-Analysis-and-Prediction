@@ -1,7 +1,7 @@
 # Indeed-Web-Scrapping-Analysis-and-Salary-Prediction
 In this project, I scraped Indeed.com for data on job titles, salaries, locations, summaries of job description, analyzed the data I scraped and predicted salary using random forest binary classifier.
 
-In this notebook, I will analyze the job data I scraped from Indeed.com for data scientist position from my list of cities. While most listings DO NOT come with salary information (as you will see in this exercise), being to able extrapolate and predict the expected salaries from other listings can help guide negotiations or at least an insight of what to expect if you are new to the job market like me. 
+In this notebook, I will analyze the job data I scraped from Indeed.com for data scientist position from my list of cities. Most listings do not come with salary information, but being to able extrapolate and predict the expected salaries from other listings can help guide negotiations or at least get an insight of what to expect if you are new to the job market like me. 
 
 Normally, regression could be used for a task like this; however, since there is a fair amount of natural variance in job salaries, I approached this as a classification problem using random forest classifier.
 
