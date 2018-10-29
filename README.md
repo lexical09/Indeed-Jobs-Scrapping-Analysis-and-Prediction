@@ -18,3 +18,7 @@ The accuracy score and across validation score of each Random Forest models show
 |Summary|0.704|0.731 ± 0.065|
 |Title|0.805|0.804 ± 0.057|
 |All 3 above|0.81|0.77 ± 0.073|
+
+
+
+
