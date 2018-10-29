@@ -70,3 +70,4 @@ for city in set(cities):
 print('You have total '+str(df_more.shape[0])+ ' jobs. ' +str(df_more.dropna().drop_duplicates().shape[0]) + " of these aren't rubbish.")
 print('Execution time is: %s seconds'%(time.clock() - start_time))
 df_more.to_csv('Indeed_not_cleaned_long.csv', encoding='utf-8')
+
