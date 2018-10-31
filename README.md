@@ -23,7 +23,7 @@ Below are the predicticted salary for each feture used:
 
 #### City
 
-![](./images/city.png =50%x)
+![](./images/city.png)
 
 #### Job Summary
 
