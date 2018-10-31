@@ -10,7 +10,7 @@ Most listings do not come with salary information, but being to able extrapolate
 * The salaries are given as text and usually with ranges
 
 ### Results:
-The accuracy score and across validation score of each Random Forest models shown below:
+The accuracy score and across validation score of each Random Forest models:
 
 |Features Used|Accuracy|Cross Validation|
 |------|------|------|
@@ -19,6 +19,22 @@ The accuracy score and across validation score of each Random Forest models show
 |Title|0.805|0.804 ± 0.057|
 |All 3 above|0.81|0.77 ± 0.073|
 
+Below are the predicticted salary for each feture used:
 
+#### City
+
+![](./images/city.png)
+
+#### Job Summary
+
+![](./images/summary.png)
+
+#### Job Title
+
+![](./images/title.png)
+
+#### Combination of city, job summary and job title:
+
+![](./images/combination.png)
 
 
