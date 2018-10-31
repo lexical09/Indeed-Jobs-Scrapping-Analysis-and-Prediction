@@ -23,18 +23,18 @@ Below are the predicticted salary for each feture used:
 
 #### City
 
-<img src="./images/city.png" width="40%">
+<img src="./images/city.png" width="50%">
 
 #### Job Summary
 
-<img src="./images/summary.png" width="40%">
+<img src="./images/summary.png" width="50%">
 
 #### Job Title
 
-<img src="./images/title.png" width="40%">
+<img src="./images/title.png" width="50%">
 
 #### Combination of city, job summary and job title:
 
-<img src="./images/combination.png" width="40%">
+<img src="./images/combination.png" width="50%">
 
 
